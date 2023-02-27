@@ -1,3 +1,1 @@
-# Data-Exploration
-
-Within this project, I used several SQL functions to explore the correlation between the population of a country, the total number of COVID-19 cases and the death rate due to COVID-19.
+Analyzing COVID-19 Datasets with SQL Server: Gaining insights into the pandemic through data-driven queries. Data set is from here and check out the queries below. The purpose of this SQL Project is to analyze COVID-19 datasets related to deaths and vaccinations. The datasets contain information on the number of COVID-19 cases, deaths, vaccinations, the population of various countries, etc.
