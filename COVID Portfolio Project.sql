@@ -1,12 +1,11 @@
+**Loading the CovidDeaths dataset into SQL Server order by Location and Date**
+
 Select *
 From [Portfolio Project]..CovidDeaths
 order by 3,4
 
 
---Select *
---From [Portfolio Project]..CovidVaccinations
---order 3,4
-
+**Select the data that we are going to be using, again sort by Location and Date**
 
 Select location, date, total_cases, new_cases, total_deaths, population
 From [Portfolio Project]..CovidDeaths
