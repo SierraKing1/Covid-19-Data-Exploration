@@ -3,10 +3,11 @@ From [Portfolio Project]..CovidDeaths
 order by 3,4
 
 
+::: tip
 --Select *
 --From [Portfolio Project]..CovidVaccinations
 --order 3,4
-
+:::
 
 Select location, date, total_cases, new_cases, total_deaths, population
 From [Portfolio Project]..CovidDeaths
