@@ -1,5 +1,3 @@
-**Loading the CovidDeaths dataset into SQL Server order by Location and Date**
-
 Select *
 From [Portfolio Project]..CovidDeaths
 order by 3,4
